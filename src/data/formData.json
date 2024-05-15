@@ -1,0 +1,48 @@
+{
+  "userform": [
+    {
+      "email": "exemplu@email.com",
+      "varsta": 25,
+      "sex": "masculin",
+      "inaltime_cm": 180,
+      "greutate_kg": 75,
+      "tip_somatic": "",
+      "zile_antrenament_saptamana": 5,
+      "frecventa_antrenament_zi": 1,
+      "experienta_antrenamente": true,
+      "probleme_sanatate": "Nu",
+      "obiective": [
+        "creștere musculară",
+        "tonifiere și definire musculară"
+      ],
+      "timp_rezultate": [
+        "1-3 luni"
+      ],
+      "abilitati": [
+        "forță",
+        "rezistență"
+      ],
+      "id": "a801"
+    },
+    {
+      "id": "2f54",
+      "userform": [
+        {
+          "email": "amariutei1998@gmail.com",
+          "varsta": "26",
+          "sex": "male",
+          "inaltime_cm": "177",
+          "greutate_kg": "71",
+          "tip_somatic": "mijlociu",
+          "zile_antrenament_saptamana": "5",
+          "frecventa_antrenament_zi": "1",
+          "experienta_antrenamente": "nu",
+          "probleme_sanatate": "nu",
+          "obiective": "muscle-gain",
+          "timp_rezultate": "3-months",
+          "abilitati": []
+        }
+      ]
+    }
+  ]
+}
